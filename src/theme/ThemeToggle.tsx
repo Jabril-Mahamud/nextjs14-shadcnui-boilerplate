@@ -1,3 +1,4 @@
+// Example: Updated ThemeToogle.tsx with translations
 "use client";
 
 import * as React from "react";
@@ -10,10 +11,12 @@ import {
 import { Moon, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useTheme } from "next-themes";
+import { useTranslations } from 'next-intl';
 
 export const ThemeToggle = () => {
   const { setTheme, resolvedTheme } = useTheme();
   const [mounted, setMounted] = React.useState(false);
+  const t = useTranslations('Navbar');
 
   // useEffect only runs on the client, so now we can safely show the UI
   React.useEffect(() => {
@@ -22,7 +25,6 @@ export const ThemeToggle = () => {
 
   // Don't render anything until component has mounted
   if (!mounted) {
-    // Return a placeholder with the same dimensions to prevent layout shift
     return (
       <Button variant="outline" className="w-9 px-0">
         <span className="sr-only">Toggle theme</span>
@@ -45,13 +47,13 @@ export const ThemeToggle = () => {
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuItem onClick={() => setTheme("light")}>
-          Light
+          {t('light')}
         </DropdownMenuItem>
         <DropdownMenuItem onClick={() => setTheme("dark")}>
-          Dark
+          {t('dark')}
         </DropdownMenuItem>
         <DropdownMenuItem onClick={() => setTheme("system")}>
-          System
+          {t('system')}
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
