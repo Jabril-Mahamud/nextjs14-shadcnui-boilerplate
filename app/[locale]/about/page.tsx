@@ -1,3 +1,4 @@
+'use client'
 import { useTranslations } from "next-intl";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -102,30 +103,6 @@ export default function AboutPage() {
                 <li className="flex items-center gap-2">
                   <span className="h-2 w-2 rounded-full bg-primary"></span>
                   <span>Database Integration</span>
-                </li>
-              </ul>
-            </CardContent>
-          </Card>
-          
-          <Card>
-            <CardContent className="pt-6">
-              <h3 className="text-xl font-bold mb-4">Teaching Experience</h3>
-              <ul className="space-y-2">
-                <li className="flex items-center gap-2">
-                  <span className="h-2 w-2 rounded-full bg-primary"></span>
-                  <span>Online Programming Courses</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <span className="h-2 w-2 rounded-full bg-primary"></span>
-                  <span>One-on-One Mentoring</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <span className="h-2 w-2 rounded-full bg-primary"></span>
-                  <span>Workshop Facilitation</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <span className="h-2 w-2 rounded-full bg-primary"></span>
-                  <span>Technical Documentation</span>
                 </li>
               </ul>
             </CardContent>
