@@ -5,7 +5,7 @@ import React, { useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { ThemeToogle } from "@/src/theme/ThemeToogle";
+import { ThemeToggle } from "@/src/theme/ThemeToggle";
 import { z } from "zod";
 
 const navbarProps = z.object({
@@ -43,7 +43,7 @@ const Navbar: React.FC<NavbarProps> = ({ appName, menuItems }) => {
           ))}
         </div>
         <div className="flex items-center">
-          <ThemeToogle />
+          <ThemeToggle />
           <div className="block lg:hidden ml-4">
             <Button
               variant={"outline"}
