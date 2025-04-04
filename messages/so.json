@@ -8,6 +8,11 @@
     "guide": "Hagaha Python",
     "about": "Iga Waran"
   },
+  "Navbar": {
+    "light": "Iftiinka",
+    "dark": "Madow",
+    "system": "Nidaamka"
+  },
   "Home": {
     "title": "Ku soo dhowow Hagaha Barashada Python",
     "subtitle": "Waddada dhammeystiran ee lagu noqdo horumariye Python",
@@ -61,6 +66,7 @@
             "api": "La shaqaynta APIs"
           },
           "examples": {
+            "title": "Tusaalayaasha Mashruuca",
             "example1": "Bogga internetka ee aasaasiga ah ee isticmaalaya API dadweynaha si uu u muujiyo macluumaadka",
             "example2": "Ciyaar leh interface graphics heerka sare ah"
           }
@@ -97,18 +103,30 @@
       "courses": {
         "title": "Koorsooyinka La Taliyay",
         "harvard": "Harvard Computer Science (CS50) - Hordhaca Sayniska Kombiyuutarka"
-      }
+      },
+      "visitChannel": "Booqo Kanaalkaan",
+      "watchTutorial": "Daawo Tababarkaan",
+      "watchCourse": "Daawo Koorsadaan",
+      "watchVideo": "Daawo Muuqaalkaan",
+      "visitPlatform": "Booqo {{platform}}",
+      "viewCourse": "Arag Koorsadaan"
     }
   },
   "About": {
     "title": "Iga Waran",
-    "subtitle": "Abuuraha hagaha Python ee adiga",
+    "name": "Jabril Mahamud",
+    "biographyHeading": "Iga Waran",
     "biography": "Waxaan ku xishooneynaa inaan caawiyo kuwa kale inay bartaan coding oo ay noqdaan horumariyayaal guuleysta. Sanado waayo-aragnimo ah oo ku jira horumarinta Python iyo wax barista, waxaan abuuray hagahan si aan u bixiyo hab habaysan oo lagu barto barnaamijyada.",
     "experience": {
       "title": "Waayo-aragnimo",
       "years": "Sanado Horumarineed",
       "projects": "Mashaariic la dhameeyay",
       "students": "Ardayda la hagay"
+    },
+    "age": "Da'da",
+    "siteReason": {
+      "title": "Sababta aan u Sameeyay Boggan",
+      "description": "Inta badan dadka hareereysan ayaa i weydiya sida loo galo barnaamijyada/injineernimada software-ka. Ma ihi macallin, laakiin waxaan dhisay boggan sababtoo ah waa la i weydiin jiray su'aashan si ku filan waxaanan rabay inaan bixiyo il habeysan oo loogu talagalay kuwa bilowga ah."
     },
     "contact": {
       "title": "La Xiriir",
@@ -117,6 +135,65 @@
       "github": "GitHub",
       "twitter": "Twitter",
       "linkedin": "LinkedIn"
+    },
+    "skills": {
+      "title": "Xirfadaha Farsamo",
+      "languages": {
+        "title": "Luuqadaha",
+        "description": "JavaScript, TypeScript, Python, C#"
+      },
+      "frameworks": {
+        "title": "Framewoodyada Web-ka",
+        "description": "Next.js, React, Express, Django"
+      },
+      "cloud": {
+        "title": "Platformyada Cloud-ka",
+        "description": "AWS, Azure, Google Cloud"
+      },
+      "databases": {
+        "title": "Databases",
+        "description": "SQL (MySQL), NoSQL (MongoDB, DynamoDB)"
+      }
+    },
+    "jobs": {
+      "engineer": {
+        "title": "Injineer Software - BP | London",
+        "period": "09/2023 - 09/2025",
+        "responsibilities": [
+          "Waxaan horumariyay microservices backend ah oo leh C# iyo Node.js",
+          "Waxaan naqshadeeyay RESTful APIs oo maamulay 10,000+ codsiga/ilbiriqsiga"
+        ]
+      },
+      "apprentice": {
+        "title": "Tababar-qaate Injineernimo Software - BP | London",
+        "period": "09/2021 - 09/2023",
+        "responsibilities": [
+          "Waxaan dhisay codsiyada full-stack ah oo isticmaalaya Python, Django, iyo JavaScript",
+          "Waxaan hagaajiyay nidaamyada Amazon EC2, oo yareeya kharashyada sannadlaha ah"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Iftiiminta Mashruucyada",
+      "energy": {
+        "title": "Platform-ka Falanqaynta Suuqa Tamarta",
+        "role": "Horumariye",
+        "description": [
+          "Waxaan naqshadeeyay microservices la balaariyay oo ku jira Node.js & C#",
+          "Waxaan isdhexgaliyay shaqooyinka Azure Serverless iyo Data Warehouse",
+          "Waxaan horumariyay dashboards React ah oo loogu talagalay sawir-muujinta xogta",
+          "Tech: Node.js, React, TypeScript, C#, Azure"
+        ]
+      },
+      "pipeline": {
+        "title": "Pipeline-ka Habaynta Xogta Real-time ah",
+        "role": "Horumariye Keli ah",
+        "description": [
+          "Waxaan dhisay nidaam kormeerka EC2 oo ku salaysan Python",
+          "Waxaan horumariyay dashboards falanqaynta real-time ah oo isticmaalaya React & Django",
+          "Tech: AWS, Python, React, Django, PostgreSQL"
+        ]
+      }
     }
   },
   "LanguageSwitcher": {

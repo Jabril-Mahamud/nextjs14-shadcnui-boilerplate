@@ -8,6 +8,7 @@ import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import { useLocale } from "next-intl";
 import { LanguageSwitcher } from "../../LanguageSwitcher";
+import { ThemeToggle } from "@/src/theme/ThemeToggle";
 
 export default function Navbar() {
   const t = useTranslations("Navigation");
@@ -53,11 +54,13 @@ export default function Navbar() {
                 </Link>
               ))}
             </div>
+            <ThemeToggle/>
             <LanguageSwitcher />
           </div>
           
           {/* Mobile menu button */}
           <div className="flex md:hidden items-center">
+            <ThemeToggle/>
             <LanguageSwitcher />
             <Button
               variant="ghost"
