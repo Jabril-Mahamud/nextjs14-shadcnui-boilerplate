@@ -1,0 +1,203 @@
+{
+  "Common": {
+    "websiteTitle": "Hagaha Barashada Python",
+    "language": "Luqadda"
+  },
+  "Navigation": {
+    "home": "Bogga Hore",
+    "guide": "Hagaha Python",
+    "about": "Iga Waran"
+  },
+  "Navbar": {
+    "light": "Iftiinka",
+    "dark": "Madow",
+    "system": "Nidaamka"
+  },
+  "Home": {
+    "title": "Ku soo dhowow Hagaha Barashada Python",
+    "subtitle": "Waddada dhammeystiran ee lagu noqdo horumariye Python",
+    "description": "Hagahani wuxuu bixiyaa hab habaysan oo lagu barto barnaamijyada Python, laga bilaabo asaasiyaadka ilaa iyo inta laga diyaar garoobayo shaqada horumariye.",
+    "getStartedButton": "Arag Hagaha",
+    "features": {
+      "beginner": {
+        "title": "U Fiican Bilowgalayaasha",
+        "description": "Ku bilow asaasiyaadka oo dhis aasaas adag"
+      },
+      "practical": {
+        "title": "Mashruucyo Dhab ah",
+        "description": "Baro adigoo dhisaya mashruucyo dhab ah oo adag"
+      },
+      "comprehensive": {
+        "title": "Waddo Dhammeystiran",
+        "description": "Laga bilaabo asaasiyaadka ilaa horumarinta xirfadeed oo leh Git, APIs, iyo in ka badan"
+      }
+    }
+  },
+  "Guide": {
+    "title": "Hagaha Barashada Python",
+    "intro": "Hagaha talaabo-tallaabada ah ee lagu noqdo horumariye Python oo khibrad leh",
+    "steps": {
+      "step1": {
+        "title": "Baro Asaasiyaadka",
+        "content": "Marka hore, waxaad u baahan doontaa inaad barato waxyaabaha ugu sahlan sida statements-ka daabacaadda, fikradaha aasaasiga ah ee barnaamijyada. Waxaa jira laba hab oo la taliyay:",
+        "options": {
+          "option1": "Daawo Fireship (muuqaalada degdegga ah) oo si toos ah uga hel waayo-aragnimo. Tani waxay ku shaqeysaa haddii aad leedahay qaab waxbarasho oo dhab ah.",
+          "option2": "Samee barnaamij ama koorso habeysan. Ikhtiyaarada la taliyay waxaa ka mid ah Mosh ama Tech with Tim. Mosh wuxuu bixiyaa tababbar bilowga ah oo heer sare ah oo daboolaya asaasiyaadka Python."
+        }
+      },
+      "step2": {
+        "title": "Dhis Mashruucyo Fudud",
+        "content": "Haddaba, hel waayo-aragnimo wax-ku-ool ah oo leh mashaariic yaryar. Isku day inaad sameyso ciyaaro aasaasi ah sida tic-tac-toe ama ciyaaro ku salaysan shabakad sida Connect 4."
+      },
+      "step3": {
+        "title": "Baro Git",
+        "content": "SI AAD U NOQOTO HORUMARIYE WAA INAAD FAHAMTO GIT. WAY KA FUDUDAHAY SIDII AY U MUUQATAY. Fireship wuxuu leeyahay muuqaallo badan oo waxtar leh oo sharxaya Git iyo sida si waxtar leh loogu isticmaalo."
+      },
+      "step4": {
+        "title": "Qaado Mashruucyo Caqabad leh",
+        "content": "Hadda oo aad fahamtay asaasiyaadka, iskugu dheelli tir mashaariic dhib badan oo bilowga u muuqda inay dhaafsiisan yihiin heerkaaga xirfadeed ee hadda.",
+        "details": {
+          "detail1": "Dooro mashaariic ku dhiirrigeliya ama kugu dhaliyo xiisahaaga.",
+          "detail2": "Mashruucaagu waa inuu ku darsado fikrado cusub sida:",
+          "concepts": {
+            "packages": "Isticmaalka xirmooyinka iyo maktabadaha dibadda",
+            "oop": "Barnaamij ku salaysan wax",
+            "sql": "Isdhexgalka SQL iyo kayd xogta",
+            "api": "La shaqaynta APIs"
+          },
+          "examples": {
+            "title": "Tusaalayaasha Mashruuca",
+            "example1": "Bogga internetka ee aasaasiga ah ee isticmaalaya API dadweynaha si uu u muujiyo macluumaadka",
+            "example2": "Ciyaar leh interface graphics heerka sare ah"
+          }
+        }
+      },
+      "step5": {
+        "title": "Dhis Codka Kaabaysha Buuxa",
+        "content": "Waa waqtigii la isku keeni lahaa wax walba oo la abuuri lahaa codsiga kaabaysha buuxa oo leh isticmaalka Git ee habboon, keydka xogta, iyo bog web oo xirfadle ah oo isticmaalaya HTML, CSS, iyo suurtagalka JavaScript."
+      },
+      "step6": {
+        "title": "Ku Tababbaro Wareysiyada Farsamada",
+        "content": "Hadda oo aad tahay horumariye, u diyaargarow wareysiyada farsamada adoo ku tababbarnaya qaab-dhismeedyada xogta iyo algorithms-ka. Kuwani way adag yihiin laakiin waa muhiim shaqo-codsiyada. Ku tababbaro bogagga sida LeetCode ama NeetCode."
+      }
+    },
+    "resources": {
+      "title": "Ilaha La Taliyay",
+      "channels": {
+        "title": "Kanaalada YouTube",
+        "fireship": "Fireship - Tababarro degdeg ah oo kooban",
+        "techwithTim": "Tech with Tim - Python sida ugu dhakhsaha badan ee suurtogalka ah (Baro Python ~75 Daqiiqo)",
+        "mosh": "Mosh Python Course - Python Full Course for Beginners (6 saacadood, oo loo kala qaybiyay qaybaha)",
+        "brocode": "Bro Code - Koorsada buuxda ee Python oo bilaash ah, faahfaahsan laakiin kooban"
+      },
+      "git": {
+        "title": "Ilaha Git",
+        "explanation": "Fireship: Git oo lagu sharxay 100 Ilbiriqsi",
+        "tutorial": "Fireship: Sida loo isticmaalo Git"
+      },
+      "practice": {
+        "title": "Goobaha Tababbarka",
+        "leetcode": "LeetCode - Ku tababbaro su'aalaha wareysiga iyo algorithms",
+        "neetcode": "NeetCode - Dhibaatooyin dheeraad ah iyo xalal"
+      },
+      "courses": {
+        "title": "Koorsooyinka La Taliyay",
+        "harvard": "Harvard Computer Science (CS50) - Hordhaca Sayniska Kombiyuutarka"
+      },
+      "visitChannel": "Booqo Kanaalkaan",
+      "watchTutorial": "Daawo Tababarkaan",
+      "watchCourse": "Daawo Koorsadaan",
+      "watchVideo": "Daawo Muuqaalkaan",
+      "visitPlatform": "Booqo {{platform}}",
+      "viewCourse": "Arag Koorsadaan"
+    }
+  },
+  "About": {
+    "title": "Iga Waran",
+    "name": "Jabril Mahamud",
+    "biographyHeading": "Iga Waran",
+    "biography": "Waxaan ku xishooneynaa inaan caawiyo kuwa kale inay bartaan coding oo ay noqdaan horumariyayaal guuleysta. Sanado waayo-aragnimo ah oo ku jira horumarinta Python iyo wax barista, waxaan abuuray hagahan si aan u bixiyo hab habaysan oo lagu barto barnaamijyada.",
+    "experience": {
+      "title": "Waayo-aragnimo",
+      "years": "Sanado Horumarineed",
+      "projects": "Mashaariic la dhameeyay",
+      "students": "Ardayda la hagay"
+    },
+    "age": "Da'da",
+    "siteReason": {
+      "title": "Sababta aan u Sameeyay Boggan",
+      "description": "Inta badan dadka hareereysan ayaa i weydiya sida loo galo barnaamijyada/injineernimada software-ka. Ma ihi macallin, laakiin waxaan dhisay boggan sababtoo ah waa la i weydiin jiray su'aashan si ku filan waxaanan rabay inaan bixiyo il habeysan oo loogu talagalay kuwa bilowga ah."
+    },
+    "contact": {
+      "title": "La Xiriir",
+      "description": "Ma qabtaa su'aalo ama ma u baahan tahay hagitaan shakhsiyeed? Fadlan nala soo xiriir!",
+      "email": "Email",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn"
+    },
+    "skills": {
+      "title": "Xirfadaha Farsamo",
+      "languages": {
+        "title": "Luuqadaha",
+        "description": "JavaScript, TypeScript, Python, C#"
+      },
+      "frameworks": {
+        "title": "Framewoodyada Web-ka",
+        "description": "Next.js, React, Express, Django"
+      },
+      "cloud": {
+        "title": "Platformyada Cloud-ka",
+        "description": "AWS, Azure, Google Cloud"
+      },
+      "databases": {
+        "title": "Databases",
+        "description": "SQL (MySQL), NoSQL (MongoDB, DynamoDB)"
+      }
+    },
+    "jobs": {
+      "engineer": {
+        "title": "Injineer Software - BP | London",
+        "period": "09/2023 - 09/2025",
+        "responsibilities": [
+          "Waxaan horumariyay microservices backend ah oo leh C# iyo Node.js",
+          "Waxaan naqshadeeyay RESTful APIs oo maamulay 10,000+ codsiga/ilbiriqsiga"
+        ]
+      },
+      "apprentice": {
+        "title": "Tababar-qaate Injineernimo Software - BP | London",
+        "period": "09/2021 - 09/2023",
+        "responsibilities": [
+          "Waxaan dhisay codsiyada full-stack ah oo isticmaalaya Python, Django, iyo JavaScript",
+          "Waxaan hagaajiyay nidaamyada Amazon EC2, oo yareeya kharashyada sannadlaha ah"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Iftiiminta Mashruucyada",
+      "energy": {
+        "title": "Platform-ka Falanqaynta Suuqa Tamarta",
+        "role": "Horumariye",
+        "description": [
+          "Waxaan naqshadeeyay microservices la balaariyay oo ku jira Node.js & C#",
+          "Waxaan isdhexgaliyay shaqooyinka Azure Serverless iyo Data Warehouse",
+          "Waxaan horumariyay dashboards React ah oo loogu talagalay sawir-muujinta xogta",
+          "Tech: Node.js, React, TypeScript, C#, Azure"
+        ]
+      },
+      "pipeline": {
+        "title": "Pipeline-ka Habaynta Xogta Real-time ah",
+        "role": "Horumariye Keli ah",
+        "description": [
+          "Waxaan dhisay nidaam kormeerka EC2 oo ku salaysan Python",
+          "Waxaan horumariyay dashboards falanqaynta real-time ah oo isticmaalaya React & Django",
+          "Tech: AWS, Python, React, Django, PostgreSQL"
+        ]
+      }
+    }
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "somali": "Soomaali"
+  }
+}

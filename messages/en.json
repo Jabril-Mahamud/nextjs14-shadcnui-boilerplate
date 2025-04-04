@@ -1,0 +1,203 @@
+{
+  "Common": {
+    "websiteTitle": "Python Learning Guide",
+    "language": "Language"
+  },
+  "Navigation": {
+    "home": "Home",
+    "guide": "Python Guide",
+    "about": "About Me"
+  },
+  "Navbar":{
+    "light":"Light",
+    "dark":"Dark",
+    "system":"System"
+  },
+  "Home": {
+    "title": "Welcome to the Python Learning Guide",
+    "subtitle": "A comprehensive path to becoming a Python developer",
+    "description": "This guide provides a structured approach to learning Python programming, from the basics to becoming job-ready as a developer.",
+    "getStartedButton": "View the Guide",
+    "features": {
+      "beginner": {
+        "title": "Beginner Friendly",
+        "description": "Start with the basics and build a solid foundation"
+      },
+      "practical": {
+        "title": "Practical Projects",
+        "description": "Learn by building real projects that increase in complexity"
+      },
+      "comprehensive": {
+        "title": "Comprehensive Path",
+        "description": "From basics to professional development with Git, APIs, and more"
+      }
+    }
+  },
+  "Guide": {
+    "title": "Python Learning Guide",
+    "intro": "A step-by-step guide to becoming a proficient Python developer",
+    "steps": {
+      "step1": {
+        "title": "Learn the Basics",
+        "content": "First, you would need to learn the most elementary stuff like print statements, the most basic of programming concepts. There are two recommended approaches:",
+        "options": {
+          "option1": "Watch Fireship (the fast videos) and get hands-on experience right away. This works well if you have a more practical learning style.",
+          "option2": "Go through a structured tutorial or course. Recommended options include Mosh or Tech with Tim. Mosh has an excellent beginner tutorial covering the fundamentals of Python."
+        }
+      },
+      "step2": {
+        "title": "Build Simple Projects",
+        "content": "Next, get practical experience with small projects. Try making basic games like tic-tac-toe or grid-based games like Connect 4."
+      },
+      "step3": {
+        "title": "Learn Git",
+        "content": "TO BE A DEVELOPER YOU MUST UNDERSTAND GIT. IT IS WAY EASIER THAN IT LOOKS. Fireship has many useful videos that explain Git and how to use it effectively."
+      },
+      "step4": {
+        "title": "Take on Challenging Projects",
+        "content": "Now that you understand the basics, challenge yourself with more complex projects that initially seem beyond your current skill level.",
+        "details": {
+          "detail1": "Choose projects that inspire you or spark your curiosity.",
+          "detail2": "Your project should incorporate new concepts such as:",
+          "concepts": {
+            "packages": "Using external packages and libraries",
+            "oop": "Object-oriented programming",
+            "sql": "SQL and database integration",
+            "api": "Working with APIs"
+          },
+          "examples": {
+            "title": "Project Examples",
+            "example1": "A basic website that uses a public API to display information",
+            "example2": "A game with a proper graphical interface"
+          }
+        }
+      },
+      "step5": {
+        "title": "Build a Full-Stack Application",
+        "content": "Time to put everything together and create a complete full-stack application with proper Git usage, a database, and a professional webpage using HTML, CSS, and possibly JavaScript."
+      },
+      "step6": {
+        "title": "Practice for Technical Interviews",
+        "content": "Now that you're a developer, prepare for technical interviews by practicing data structures and algorithms. These can be challenging but are important for job applications. Practice on platforms like LeetCode or NeetCode."
+      }
+    },
+    "resources": {
+      "title": "Recommended Resources",
+      "channels": {
+        "title": "YouTube Channels",
+        "fireship": "Fireship - Fast and concise tutorials",
+        "techwithTim": "Tech with Tim - Python As Fast as Possible (Learn Python in ~75 Minutes)",
+        "mosh": "Mosh Python Course - Python Full Course for Beginners (6 hours, broken into sections)",
+        "brocode": "Bro Code - Python Full Course for free, detailed but concise"
+      },
+      "git": {
+        "title": "Git Resources",
+        "explanation": "Fireship: Git Explained in 100 Seconds",
+        "tutorial": "Fireship: How to Use Git"
+      },
+      "practice": {
+        "title": "Practice Platforms",
+        "leetcode": "LeetCode - Practice interview questions and algorithms",
+        "neetcode": "NeetCode - More practice problems and solutions"
+      },
+      "courses": {
+        "title": "Recommended Courses",
+        "harvard": "Harvard Computer Science (CS50) - Introduction to Computer Science"
+      },
+      "visitChannel": "Visit Channel",
+      "watchTutorial": "Watch Tutorial",
+      "watchCourse": "Watch Course",
+      "watchVideo": "Watch Video",
+      "visitPlatform": "Visit {{platform}}",
+      "viewCourse": "View Course"
+    }
+  },
+  "About": {
+    "title": "About Me",
+    "name": "Jabril Mahamud",
+    "biographyHeading": "About Me",
+    "biography": "I'm passionate about helping others learn to code and become successful developers. With years of experience in Python development and teaching, I've created this guide to provide a structured approach to learning programming.",
+    "experience": {
+      "title": "Experience",
+      "years": "Years in Development",
+      "projects": "Completed Projects",
+      "students": "Students Mentored"
+    },
+    "age": "Age",
+    "siteReason": {
+      "title": "Why I Made This Site",
+      "description": "I often get asked by people around me how to get into programming and software engineering. I'm not a teacher, but I built this site because I get asked this question often enough and wanted to provide a structured resource for beginners."
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Have questions or need personalized guidance? Feel free to reach out!",
+      "email": "Email",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn"
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "languages": {
+        "title": "Languages",
+        "description": "JavaScript, TypeScript, Python, C#"
+      },
+      "frameworks": {
+        "title": "Web Frameworks",
+        "description": "Next.js, React, Express, Django"
+      },
+      "cloud": {
+        "title": "Cloud Platforms",
+        "description": "AWS, Azure, Google Cloud"
+      },
+      "databases": {
+        "title": "Databases",
+        "description": "SQL (MySQL), NoSQL (MongoDB, DynamoDB)"
+      }
+    },
+    "jobs": {
+      "engineer": {
+        "title": "Software Engineer - BP | London",
+        "period": "09/2023 - 09/2025",
+        "responsibilities": [
+          "Developed backend microservices with C# and Node.js",
+          "Designed RESTful APIs handling 10,000+ requests/sec"
+        ]
+      },
+      "apprentice": {
+        "title": "Software Engineer Apprentice - BP | London",
+        "period": "09/2021 - 09/2023",
+        "responsibilities": [
+          "Built full-stack applications using Python, Django, and JavaScript",
+          "Optimized Amazon EC2 systems, reducing annual costs"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Project Highlights",
+      "energy": {
+        "title": "Energy Market Analytics Platform",
+        "role": "Developer",
+        "description": [
+          "Designed scalable microservices in Node.js & C#",
+          "Integrated Azure Serverless functions with Data Warehouse",
+          "Developed React dashboards for data visualization",
+          "Tech: Node.js, React, TypeScript, C#, Azure"
+        ]
+      },
+      "pipeline": {
+        "title": "Real-time Data Processing Pipeline",
+        "role": "Developer",
+        "description": [
+          "Built a Python-based EC2 monitoring system",
+          "Developed real-time analytics dashboards using React & Django",
+          "Tech: AWS, Python, React, Django, PostgreSQL"
+        ]
+      }
+    }
+  },
+  "LanguageSwitcher": {
+    "english": "English",
+    "somali": "Somali"
+  }
+}
