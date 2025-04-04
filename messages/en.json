@@ -1,6 +1,6 @@
 {
   "Common": {
-    "websiteTitle": "Python Learning Guide",
+    "websiteTitle": "How I Learned Python",
     "language": "Language"
   },
   "Navigation": {
@@ -8,15 +8,15 @@
     "guide": "Python Guide",
     "about": "About Me"
   },
-  "Navbar":{
-    "light":"Light",
-    "dark":"Dark",
-    "system":"System"
+  "Navbar": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
   },
   "Home": {
-    "title": "Welcome to the Python Learning Guide",
+    "title": "Welcome to How I Learned Python",
     "subtitle": "A comprehensive path to becoming a Python developer",
-    "description": "This guide provides a structured approach to learning Python programming, from the basics to becoming job-ready as a developer.",
+    "description": "This guide provides a structured approach to learning Python—from the basics to becoming job-ready as a developer. Here, I share how I learned Python along with recommendations based on my personal experience.",
     "getStartedButton": "View the Guide",
     "features": {
       "beginner": {
@@ -35,27 +35,27 @@
   },
   "Guide": {
     "title": "Python Learning Guide",
-    "intro": "A step-by-step guide to becoming a proficient Python developer",
+    "intro": "A step-by-step guide to becoming a proficient Python developer, based on how I learned Python.",
     "steps": {
       "step1": {
         "title": "Learn the Basics",
-        "content": "First, you would need to learn the most elementary stuff like print statements, the most basic of programming concepts. There are two recommended approaches:",
+        "content": "First, you need to learn the most elementary concepts like print statements and other fundamental programming ideas. There are two recommended approaches:",
         "options": {
-          "option1": "Watch Fireship (the fast videos) and get hands-on experience right away. This works well if you have a more practical learning style.",
-          "option2": "Go through a structured tutorial or course. Recommended options include Mosh or Tech with Tim. Mosh has an excellent beginner tutorial covering the fundamentals of Python."
+          "option1": "Watch Fireship (the fast videos) and dive right in with hands-on practice. This is great if you prefer a more practical learning style.",
+          "option2": "Follow a structured tutorial or course. Recommended options include Mosh or Tech with Tim. Mosh offers an excellent beginner tutorial covering the fundamentals of Python."
         }
       },
       "step2": {
         "title": "Build Simple Projects",
-        "content": "Next, get practical experience with small projects. Try making basic games like tic-tac-toe or grid-based games like Connect 4."
+        "content": "Next, gain practical experience with small projects. Try creating simple games like tic-tac-toe or grid-based games like Connect 4."
       },
       "step3": {
         "title": "Learn Git",
-        "content": "TO BE A DEVELOPER YOU MUST UNDERSTAND GIT. IT IS WAY EASIER THAN IT LOOKS. Fireship has many useful videos that explain Git and how to use it effectively."
+        "content": "To become a developer, you must understand Git. It's much easier than it looks. Fireship has many useful videos that explain Git and how to use it effectively."
       },
       "step4": {
         "title": "Take on Challenging Projects",
-        "content": "Now that you understand the basics, challenge yourself with more complex projects that initially seem beyond your current skill level.",
+        "content": "Now that you've mastered the basics, challenge yourself with more complex projects that seem initially beyond your current skill level.",
         "details": {
           "detail1": "Choose projects that inspire you or spark your curiosity.",
           "detail2": "Your project should incorporate new concepts such as:",
@@ -74,11 +74,11 @@
       },
       "step5": {
         "title": "Build a Full-Stack Application",
-        "content": "Time to put everything together and create a complete full-stack application with proper Git usage, a database, and a professional webpage using HTML, CSS, and possibly JavaScript."
+        "content": "It's time to put everything together by creating a complete full-stack application with proper Git usage, a database, and a professional webpage built with HTML, CSS, and possibly JavaScript."
       },
       "step6": {
         "title": "Practice for Technical Interviews",
-        "content": "Now that you're a developer, prepare for technical interviews by practicing data structures and algorithms. These can be challenging but are important for job applications. Practice on platforms like LeetCode or NeetCode."
+        "content": "Now that you're a developer, prepare for technical interviews by practicing data structures and algorithms. These can be challenging but are crucial for job applications. Practice on platforms like LeetCode or NeetCode."
       }
     },
     "resources": {
