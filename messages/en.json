@@ -181,7 +181,7 @@
         "description": [
           "Designed scalable microservices in Node.js & C#",
           "Integrated Azure Serverless functions with Data Warehouse",
-          "Developed React dashboards for data visualization",
+          "Built complex React pages to present data in a clean, business-friendly way that met both stakeholder goals and UX/UI design expectations",
           "Tech: Node.js, React, TypeScript, C#, Azure"
         ]
       },
@@ -191,7 +191,7 @@
         "description": [
           "Built a Python-based EC2 monitoring system",
           "Developed real-time analytics dashboards using React & Django",
-          "Tech: AWS, Python, React, Django, PostgreSQL"
+          "Tech: AWS, Python, React, Django, Sql"
         ]
       }
     }
