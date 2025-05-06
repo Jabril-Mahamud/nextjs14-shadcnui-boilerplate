@@ -12,7 +12,7 @@ The content is available in **English** and **Somali**, so more people can benef
 
 - **Framework**: [Next.js](https://nextjs.org/) (App Router)
 - **Languages**: TypeScript
-- **Styling**: Tailwind CSS *(if used)*
+- **Styling**: Tailwind CSS
 - **Fonts**: Uses `next/font` to optimize and load Google Fonts
 
 ---
