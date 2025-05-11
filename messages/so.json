@@ -4,9 +4,9 @@
     "language": "Luuqadda"
   },
   "Navigation": {
-    "home": "Bogga Hore",
-    "guide": "Hage Python",
-    "about": "Aniga"
+    "home": "Guri", 
+    "guide": "Tilmaame Python",
+    "about": "Nolosheeda"
   },
   "Navbar": {
     "light": "Iftiinka",
@@ -16,12 +16,12 @@
   "Home": {
     "title": "Ku soo dhawoow Sida aan u bartay Python",
     "subtitle": "Wadada dhameystiran ee noqoshada horumariyaha Python",
-    "description": "Buuggan wuxuu bixiyaa hab nidaamsan oo lagu barto Python, laga bilaabo aasaaska ilaa aad u diyaargarowdo inaad noqoto horumariye. Waxaan halkaan ku soo bandhigayaa sida aan u bartay Python iyo talooyin ku saleysan waayo-aragnimadayda.",
-    "getStartedButton": "Eeg Buugga",
+    "description": "Buuggan wuxuu bixiyaa hab nidaamsan oo lagu barto Python, laga bilaabo aassaaska ilaa aad u diyaargarowdo inaad noqoto horumariye. Waxaan halkaan ku soo bandhigayaa sida aan u bartay Python iyo talooyin ku saleysan waayo-aragnimadeyda.",
+    "getStartedButton": "Arag Buugga",
     "features": {
       "beginner": {
         "title": "Ku Habboon Bilowga",
-        "description": "Ku bilow aasaaska oo dhis saldhig adag"
+        "description": "Ku bilow aassaaska oo dhis saldhig adag"
       },
       "practical": {
         "title": "Mashaariic Wax Ku Ool ah",
@@ -29,7 +29,7 @@
       },
       "comprehensive": {
         "title": "Wadada Dhameystiran",
-        "description": "Laga bilaabo aasaaska ilaa horumarinta xirfadeed oo ay ku jiraan Git, APIs, iyo waxyaabo kale"
+        "description": "Laga bilaabo aassaaska ilaa horumarinta xirfadeed oo ay ku jiraan Git, APIs, iyo waxyaabo kale"
       }
     }
   },
@@ -38,11 +38,11 @@
     "intro": "Tallaabo-tallaabo, sida aan u bartay Python, ku hage noqoshada horumariyaha xirfadda leh",
     "steps": {
       "step1": {
-        "title": "Baro Aasaaska",
+        "title": "Baro aassaaska",
         "content": "Marka hore, waxaad u baahan tahay inaad barato waxyaabaha ugu fudud sida amarrada print iyo fikradaha aasaasiga ah ee barnaamijyada. Waxaa jira laba hab oo la taliyay:",
         "options": {
           "option1": "Daawo Fireship (fiidiyowyada gaagaaban) oo isla markiiba ku samee waxqabad. Tani waxay fiican tahay haddii aad doorbideyso hab waxbarasho oo ficil ku saleysan.",
-          "option2": "Raac cashar nidaamsan ama koorso. Ikhtiyaarrada la taliyay waxaa ka mid ah Mosh ama Tech with Tim. Mosh wuxuu leeyahay cashar bilow oo heer sare ah oo daboolaya aasaaska Python."
+          "option2": "Raac cashar nidaamsan ama koorso. Ikhtiyaarrada la taliyay waxaa ka mid ah Mosh ama Tech with Tim. Mosh wuxuu leeyahay cashar bilow oo heer sare ah oo daboolaya aassaaska Python."
         }
       },
       "step2": {
@@ -51,11 +51,11 @@
       },
       "step3": {
         "title": "Baro Git",
-        "content": "Si aad u noqoto horumariye, waa inaad fahanto Git. Waa mid aad u fudud marka loo eego sida uu u muuqdo. Fireship wuxuu leeyahay fiidiyowyo badan oo waxtar leh oo sharxaya Git iyo sida loo isticmaalo si hufan."
+        "content": "Si aad u noqoto horumariye, waa inaad fahanto Git. Waa mid aad u fudud marka loo eego sida uu u muuqdo. Fireship wuxuu leeyahay fiidiyowyo badan oo waxtar leh oo sharaxaayo Git iyo sida loo isticmaalo si fudud."
       },
       "step4": {
         "title": "Qaado Mashaariic Caafimaad leh",
-        "content": "Hadda oo aad fahamtay aasaaska, isku day inaad qaadato mashaariic adag oo u muuqda in ay ka sareeyaan heerkaaga hadda.",
+        "content": "Hadda oo aad fahamtay aassaaska, isku day inaad qaadato mashaariic adag oo u muuqda in ay ka sareeyaan heerkaaga hadda.",
         "details": {
           "detail1": "Dooro mashaariic kugu dhiirigelisa ama kugu soo jiidata.",
           "detail2": "Mashruucaagu waa inuu ka koobnaadaa fikrado cusub sida:",
